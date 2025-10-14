@@ -1,0 +1,5 @@
+// STUDENT.txt
+
+APP_URL=<url_aplikasi>
+MAP_SERVICE_API_KEY=<api_key_peta_anda>
+STORY_API_URL=https://story-api.dicoding.dev/v1
